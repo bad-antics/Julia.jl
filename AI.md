@@ -32,6 +32,7 @@
 + [Flimsy.jl](https://github.com/thomlake/Flimsy.jl) :: Gradient based Machine Learning for Julia.
 + [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
 + [go.jl](https://github.com/dmrd/go.jl) :: A deep learning based Go bot implemented in Julia.
++ [grugbot420](https://github.com/grug-group420/grugbot420) :: A neuromorphic cognitive engine that deploys domain-expert AI specimens through architectural configuration rather than traditional training.
 + [GradientBoost.jl](https://github.com/svs14/GradientBoost.jl) :: Gradient boosting framework for Julia.
 + [Glmnet.jl](https://github.com/simonster/Glmnet.jl) :: Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 + [HopfieldNets.jl](https://github.com/johnmyleswhite/HopfieldNets.jl) :: Discrete and continuous Hopfield networks in Julia.
